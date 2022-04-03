@@ -1,6 +1,12 @@
+> <img src="images/madcat.gif" align="center" style="width: 10%" /> **Note:** 
+Currently studying at &rarr; <a href="https://teknikhogskolan.se/utbildningar/net-utvecklare/?gclid=CjwKCAjwi6WSBhA-EiwA6Niok9YaOFQH9ZIIzhza9c6-wVFDSQrE8d-Mb-fyaE0s9w84t4E6w8dBwBoCKF0QAvD_BwE" target="_blank"><img src="images/th.png" alt="Teknikhögskolan logo" style="width:26px;height:22px;"></a> to become a .NET-developer
+<br/>
+
+## Github Stats  🐱‍💻
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susannahandersson&hide_border=true&layout=compact" align="center" /></div> 
+<!--
 ### Hi there 👋
 
-<!--
 **SusannahAndersson/SusannahAndersson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
