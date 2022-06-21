@@ -1,4 +1,4 @@
-> <img src="images/madcat.gif" alt="Cat mad at camputer gif" width= "130px;" /> **Note:** 
+> <img src="images/madcatresized.gif" alt="Cat mad at camputer gif" width= "130px;" /> **Note:** 
 Currently studying at &rarr; <a href="https://teknikhogskolan.se/utbildningar/net-utvecklare/?gclid=CjwKCAjwi6WSBhA-EiwA6Niok9YaOFQH9ZIIzhza9c6-wVFDSQrE8d-Mb-fyaE0s9w84t4E6w8dBwBoCKF0QAvD_BwE" target="_blank"><img src="images/th.png" alt="Teknikhögskolan logo" width= "26px;"></a> to become a .NET-developer
 <br/>
 
