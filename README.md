@@ -3,7 +3,7 @@ Currently studying at &rarr; <a href="https://teknikhogskolan.se/utbildningar/ne
 <br/>
 
 ## Github Stats  🐱‍💻
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susannahandersson&hide_border=true&layout=compact" alt="Github language stats" align="center" /></div> 
+<div align="center"><img src="https://github-stats-eso9d8txo-susannahandersson.vercel.app/api/top-langs/?username=susannahandersson&hide_border=true&layout=compact" alt="Github language stats" align="center" /></div> 
 <!--
 ### Hi there 👋
 
